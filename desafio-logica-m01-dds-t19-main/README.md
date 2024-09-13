@@ -21,4 +21,4 @@ Veja os três principais erros que você pode estar cometendo:
 3. **Você não colocou o código dentro da função solucao:** TODO o códido deve estar dentro da função `solucao`;
 4. **Você não está retornando o que é pedido:** lembre-se que a mensagem a ser retornada tem que ser exatamente a solicitada no exercício, sem espaços em branco a mais, atentando-se para as letras maiúsculas e minúsculas. Se a questão estiver pedindo, por exemplo, para retornar um número, não retorne nenhuma mensagem antes, retorne APENAS o número.
 
-##### Entrega => Seu perfil do hackerhank aqui:
+##### Entrega => Seu perfil do hackerhank aqui: https://www.hackerrank.com/profile/rafaelgvargas
