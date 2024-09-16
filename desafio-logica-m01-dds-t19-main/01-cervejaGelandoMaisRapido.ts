@@ -1,3 +1,5 @@
 function solucao(tempoTemporizador: number): number {
-    // seu código aqui
+    const tempo = 10
+    const falta = tempo - tempoTemporizador
+    return falta
 }
