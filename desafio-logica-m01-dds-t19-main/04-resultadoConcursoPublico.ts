@@ -1,3 +1,8 @@
 function solucao(aprovados: string[], numeroInscricao: string): string {
-  // seu código aqui
+    
+    for (let inscricao of aprovados) {
+        if (inscricao === numeroInscricao)
+            return 'APROVADO'
+    }
+    return 'REPROVADO'
 }
